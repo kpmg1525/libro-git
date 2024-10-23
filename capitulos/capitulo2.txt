@@ -1,0 +1,5 @@
+ HEAD
+Contenido en la rama master
+
+Contenido para el archivo capitulo2.txt
+capitulo2
